@@ -1,0 +1,11 @@
+{
+  "name" : "Triple AND Logic Gate",
+  "version" : "Release v1.0",
+  "path" : ".",
+  "dependencies" : [],
+  "metadata" : {
+    "author" : "Wispborne",
+    "version" : "1.0",
+    "description" : "Adds AND logic gate with triple input."
+  }
+}

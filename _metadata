@@ -1,0 +1,7 @@
+{
+	"friendlyname" : "Triple AND Logic Gate",
+	"name" : "tripleand",
+	"author" : "Wispborne",
+	"description" : "Adds AND logic gate with triple input.",
+	"version" : "1.0"
+}
