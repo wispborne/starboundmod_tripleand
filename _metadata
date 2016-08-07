@@ -1,9 +1,9 @@
 {
   "author" : "Wispborne",
-  "description" : "Adds AND logic gate with three inputs.\n\nOther than the additional input, it is identical to the vanilla AND gate.\nFor those who are doing complex logic that requires chained AND gates, this should help reduce the amount of chaining, at least a little bit.\n\nThis mod is also available online at https://github.com/davidwhitman/starboundmod_tripleand .",
-  "friendlyName" : "Triple AND Logic Gate",
+  "description" : "Adds \"AND\" logic gate with three inputs.\n\nOther than the additional input, it is identical to the vanilla \"AND\" gate.\nFor those who are doing complex logic that requires chained \"AND\" gates, this should help reduce the amount of chaining, at least a little bit.\n\nThanks to [url=http://steamcommunity.com/id/eksynn]eksynn[/url] for creating the new sprite!\n\nThis mod is also available online at [url=https://github.com/davidwhitman/starboundmod_tripleand]github.com[/url].",
+  "friendlyName" : "Triple \"AND\" Logic Gate",
   "link" : "steam://url/CommunityFilePage/739263112",
   "name" : "tripleand",
   "steamContentId" : "739263112",
-  "version" : "1.0"
+  "version" : "1.1"
 }

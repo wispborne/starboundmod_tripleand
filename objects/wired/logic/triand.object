@@ -13,10 +13,10 @@
   "floranDescription" : "An /'AND'/ ssswitch with three inputsss. Requiress all inputs to be /'on'/ to work.",
   "glitchDescription" : "Pleased. An /'AND'/ switch with three inputs. Requires all inputs to be /'on'/ to work.",
 
-  "inventoryIcon" : "and.png:default.1",
+  "inventoryIcon" : "triand.png:default.1",
   "orientations" : [
     {
-      "image" : "and.png:<color>.off",
+      "image" : "triand.png:<color>.off",
       "imagePosition" : [-8, -8],
 
       "spaceScan" : 0.1,
@@ -32,7 +32,7 @@
   "animation" : "/objects/wired/logic/logic.animation",
 
   "animationParts" : {
-    "switch" : "and.png"
+    "switch" : "triand.png"
   },
   "animationPosition" : [-8, -8],
 
